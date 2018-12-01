@@ -1,0 +1,6 @@
+Flask
+flask-cors
+glob2
+cython
+numpy
+sklearn
